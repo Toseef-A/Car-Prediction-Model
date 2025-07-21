@@ -18,7 +18,6 @@ debugpy==1.8.15
 decorator==4.4.2
 defusedxml==0.7.1
 dtreeviz==2.2.2
-explainerdashboard==0.5.1
 flask_simplelogin==0.2.0
 google==2.0.3
 graphviz==0.21
