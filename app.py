@@ -4,7 +4,7 @@ import joblib
 import numpy as np
 
 # Load your dataset for dropdown values
-df = pd.read_csv("adverts_preprocessed.csv")
+df = pd.read_csv("adverts_sample.csv")
 
 # Define features exactly as in training
 numerical_features = ['mileage', 'year_of_registration']
